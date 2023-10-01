@@ -1,7 +1,5 @@
 # Quiz App with Riverpod
 
-![Quiz App Logo](assets/app_logo.png)
-
 ## Overview
 
 **Quiz App with Riverpod** is a simple yet interactive mobile application developed in Flutter. This app allows users to take quizzes on various topics, test their knowledge, and receive instant feedback on their performance. It leverages the power of Riverpod for efficient state management, ensuring a smooth and responsive user experience.
